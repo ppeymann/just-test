@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ppeymann/just-test/issues"
   },
-  "homepage": "https://github.com/ppeymann/just-test#readme"
+  "homepage": "https://github.com/ppeymann/just-test#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
