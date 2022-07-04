@@ -1,4 +1,2 @@
-const user = {
-    name: "peyman",
-    id: 1
-}
+import { say } from 'cowsay';
+console.log(say({ text: 'im really speaking such wow' }))
