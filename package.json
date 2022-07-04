@@ -1,0 +1,24 @@
+{
+  "name": "4test",
+  "version": "1.0.0",
+  "description": "this is for test and learn npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppeymann/just-test.git"
+  },
+  "keywords": [
+    "just",
+    "for",
+    "testing"
+  ],
+  "author": "peyman malek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppeymann/just-test/issues"
+  },
+  "homepage": "https://github.com/ppeymann/just-test#readme"
+}
